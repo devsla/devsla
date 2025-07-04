@@ -1,8 +1,21 @@
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,bootstrap&theme=light" alt="Skill Icons"/>
-  </div>
+  <a href="https://github.com/devsla">
+    <img src="https://komarev.com/ghpvc/?username=devsla&color=brightgreen" alt="Profile views" />
+  </a>
+</div>
 
-## Hello, I'm Devsla! 👋
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,bootstrap&theme=light" alt="Skill Icons"/>
+</div>
+
+# Halo, Saya Devsla! 👋
+### Learning Web Developer | Exploring New Horizons 🚀
+
+Saat ini saya sedang mendalami dunia web development, mengubah setiap baris kode menjadi kesempatan untuk belajar dan tumbuh. Meskipun sedang dalam fase eksplorasi, saya bersemangat untuk menciptakan solusi web yang inovatif dan efisien. Mari terhubung dan bangun sesuatu yang luar biasa bersama!
+
+---
+
+## 💻 Proyek & Statistik GitHub Saya
 
 <div align="center">
   <a href="https://github.com/devsla">
@@ -15,9 +28,7 @@
 
 ---
 
----
-
-### 🛠️ Bahasa & Teknologi yang Saya Kuasai:
+## 🛠️ Bahasa & Teknologi yang Saya Kuasai (dan Pelajari!)
 
 <p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -36,13 +47,9 @@
 
 ---
 
-### 📊 Aktivitas GitHub Saya:
+## 📫 Mari Terhubung!
 
----
-
-### 📫 Mari Terhubung!
-
-Jangan ragu untuk menghubungi saya. Mari kita ciptakan sesuatu yang luar biasa bersama!
+Saya selalu terbuka untuk diskusi, ide kolaborasi, atau sekadar menyapa. Jangan ragu untuk menghubungi saya!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/[username-linkedin-anda]" target="_blank">
@@ -61,4 +68,4 @@ Jangan ragu untuk menghubungi saya. Mari kita ciptakan sesuatu yang luar biasa b
 
 ---
 
-<p align="center">⭐️ Dari Devsla dengan <a href="https://github.com/devsla">GitHub</a></p>
+<p align="center">⭐️ Dibuat dengan ❤️ oleh Devsla. Kunjungi <a href="https://github.com/devsla">profil GitHub saya</a>!</p>
