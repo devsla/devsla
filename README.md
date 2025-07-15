@@ -5,11 +5,11 @@
 <br><br>
 
 <pre>
-    💼 [Gelar/Jurusan] @ [Universitas Kamu] • [Peran 1] • [Peran 2]
+    💼 RPL @ SMK • Freelancer • Web dev
     💻 System programming languages • DevOps 
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
-    🐾 [Nama Peliharaan 1] 🐰 • [Nama Peliharaan 2 & 3] 🐤🐥
+    🐾 cookie 🐰 • dutt 🐤🐥
 </pre>
 <br><br>
 
